@@ -1,0 +1,9 @@
+{
+  "name": "my-nav",
+  "$schema": "../../node_modules/nx/schemas/project-schema.json",
+  "sourceRoot": "libs/my-nav/src",
+  "projectType": "library",
+  "tags": [],
+  "// targets": "to see all targets run: nx show project my-nav --web",
+  "targets": {}
+}
